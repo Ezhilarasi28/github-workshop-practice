@@ -67,8 +67,9 @@
 | `git push --force-with-lease origin main` | Push my updated main branch to GitHub and replace the previous version, but only if nobody else has changed it.|
 
 
+### Git Collaboration
 
-
+GitHub helps us work together using branches, commits, forks, and pull requests.
 
 
 
